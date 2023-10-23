@@ -21,8 +21,8 @@ body::before {
   content: "";
   position: fixed;
   background: #040404 url("../img/bggrrr.jpg") top right no-repeat;
-  background-size: contain;
-  background-position: right;
+  background-size: cover;
+  background-position: center;
   left: 0;
   right: 0;
   top: 0;
